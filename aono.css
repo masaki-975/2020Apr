@@ -1,0 +1,34 @@
+
+/* コメント　*/
+
+li {
+	float: left;
+	list-style: none;
+	padding: 20px;
+}
+
+
+
+.header-logo {
+	padding: 50px;
+	font-size: 60px
+}
+
+.header-list {
+	flaot: left;
+	font-size: 20px;
+	padding: 10px
+	margin: 0 auto;
+	width: ajust;
+}
+
+.footer-list {
+	float: right;
+	
+	
+}
+
+body {
+	background-image: url();
+	background-size: cover;
+}
